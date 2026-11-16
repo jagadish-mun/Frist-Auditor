@@ -1,0 +1,122 @@
+{
+  "(a) all 14 tasks, non-nested clones|replay|v3": [
+    0.5458918045126138,
+    0.30902987573060264,
+    0.731311097038531
+  ],
+  "(a) all 14 tasks, non-nested clones|replay|v2": [
+    0.4726172679887837,
+    0.20691954130812415,
+    0.6860192274722855
+  ],
+  "(a) all 14 tasks, non-nested clones|replay|v1": [
+    0.4235813055104913,
+    0.13533212945552284,
+    0.6680825097713714
+  ],
+  "(a) all 14 tasks, non-nested clones|semantic|v3": [
+    0.5850801063438246,
+    0.33498516996724664,
+    0.7721699783570407
+  ],
+  "(a) all 14 tasks, non-nested clones|semantic|v2": [
+    0.7268346498267668,
+    0.5487053206894279,
+    0.8463802339096481
+  ],
+  "(a) all 14 tasks, non-nested clones|semantic|v1": [
+    0.6038448376824193,
+    0.36993548075753235,
+    0.7788715163124793
+  ],
+  "(b) 7 no-flow-overlap tasks, non-nested clones|replay|v3": [
+    0.22868751926230466,
+    -0.0849724308935016,
+    0.5128513053674624
+  ],
+  "(b) 7 no-flow-overlap tasks, non-nested clones|replay|v2": [
+    0.262148278390384,
+    -0.03325699278115077,
+    0.5284289027391731
+  ],
+  "(b) 7 no-flow-overlap tasks, non-nested clones|replay|v1": [
+    0.2924111561099523,
+    -0.005949966083861577,
+    0.5486289905158018
+  ],
+  "(b) 7 no-flow-overlap tasks, non-nested clones|semantic|v3": [
+    0.10595347341184626,
+    -0.20661479273699346,
+    0.4035288956840411
+  ],
+  "(b) 7 no-flow-overlap tasks, non-nested clones|semantic|v2": [
+    0.20274731804060164,
+    -0.09816070526242668,
+    0.473527817961575
+  ],
+  "(b) 7 no-flow-overlap tasks, non-nested clones|semantic|v1": [
+    0.17070991876206995,
+    -0.13770264018512693,
+    0.45284207539516663
+  ],
+  "(c) all tasks, held-out clones only|replay|v3": [
+    0.18680995472317172,
+    -0.2645587737142219,
+    0.5885601810555402
+  ],
+  "(c) all tasks, held-out clones only|replay|v2": [
+    0.24416388819081214,
+    -0.21177804058798813,
+    0.5992400168663311
+  ],
+  "(c) all tasks, held-out clones only|replay|v1": [
+    0.2966017702183691,
+    -0.13607826338906398,
+    0.6443697001625712
+  ],
+  "(c) all tasks, held-out clones only|semantic|v3": [
+    0.6107639326725458,
+    0.3208246738660013,
+    0.8049004448585925
+  ],
+  "(c) all tasks, held-out clones only|semantic|v2": [
+    0.7609517849690736,
+    0.5212379945801564,
+    0.8653259234341798
+  ],
+  "(c) all tasks, held-out clones only|semantic|v1": [
+    0.6658328118479394,
+    0.3824704273266057,
+    0.8434028652333679
+  ],
+  "(c') no-flow-overlap tasks, held-out clones only|replay|v3": [
+    0.08955473256792901,
+    -0.3311998871941687,
+    0.5039897255500763
+  ],
+  "(c') no-flow-overlap tasks, held-out clones only|replay|v2": [
+    0.24627551456180477,
+    -0.17133164172094392,
+    0.5955095988178716
+  ],
+  "(c') no-flow-overlap tasks, held-out clones only|replay|v1": [
+    0.26866419770378697,
+    -0.1628429762481996,
+    0.6213462466398865
+  ],
+  "(c') no-flow-overlap tasks, held-out clones only|semantic|v3": [
+    -0.260132990857236,
+    -0.5757151177254567,
+    0.06021791599817313
+  ],
+  "(c') no-flow-overlap tasks, held-out clones only|semantic|v2": [
+    -0.08671099695241201,
+    -0.4241671583821905,
+    0.26138643685765456
+  ],
+  "(c') no-flow-overlap tasks, held-out clones only|semantic|v1": [
+    -0.08671099695241201,
+    -0.45158898304354744,
+    0.3175888062580847
+  ]
+}

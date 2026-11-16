@@ -1,0 +1,50 @@
+# Audit config for the Harbor Air reference app (SPEC §7, plus `pages`).
+real_url: http://localhost:8001
+clone_url: http://localhost:8002
+viewports: [[1440, 900], [390, 844]]
+pages:
+  - /
+  - /results?from=DCA&to=SJU
+  - /fares?flight=HA101
+  - /passenger?flight=HA101
+  - /review?flight=HA101&first=Ada&last=Lovelace
+  - /checkin
+  - /help/baggage
+mask:
+  - selector: ".price"
+  - selector: ".dynamic"
+  - regex: "\\$\\d+(\\.\\d{2})?"
+  - regex: "\\b\\w{3} \\d{1,2}, \\d{4}\\b"
+  - regex: "\\d{1,2}:\\d{2}:\\d{2} [AP]M"
+wait: load            # local app has no async requests; use networkidle for real sites
+max_clicks_per_page: 25
+skip_actions: "(?i)\\b(pay|delete|purchase|buy|remove)\\b"
+weights: {visual: 0.15, elements: 0.30, behavior: 0.25, flows: 0.30}
+scoring: v3           # v3 (default): v2 + moved click targets >20px are medium gaps. v2: shift-tolerant visual, worst-page aggregation, severity penalty. v1: original
+flows:
+  - name: book_flight
+    start: /
+    steps:
+      - fill: { label: "From", value: "DCA" }
+      - fill: { label: "To", value: "SJU" }
+      - click: { role: button, name: "Search" }
+      - click: { role: link, name: "Select" }
+      - click: { role: link, name: "Select fare", nth: 1 }
+      - fill: { label: "First name", value: "Ada" }
+      - fill: { label: "Last name", value: "Lovelace" }
+      - fill: { label: "Email", value: "ada@example.com" }
+      - click: { role: button, name: "Continue" }
+      - stop_before: "Pay"
+  - name: fare_rules
+    start: /fares?flight=HA101
+    steps:
+      - click: { role: button, name: "Fare rules" }
+      - expect_dialog: "Fare rules"
+      - click: { role: button, name: "Close" }
+  - name: check_in
+    start: /
+    steps:
+      - click: { role: link, name: "Check in" }
+      - fill: { label: "Confirmation code", value: "ABC123" }
+      - fill: { label: "Last name", value: "Lovelace" }
+      - click: { role: button, name: "Find trip" }

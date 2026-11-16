@@ -1,0 +1,162 @@
+{
+ "n_clones": 45,
+ "tasks": [
+  "baggage_info",
+  "sign_in_page",
+  "sort_results",
+  "help_centre",
+  "modify_search",
+  "manage_trips",
+  "back_from_review"
+ ],
+ "a|replay": {
+  "share": 0.9301587301587302,
+  "at_ceiling": 29,
+  "var": 0.013262786596119932,
+  "distinct": [
+   0.429,
+   0.714,
+   0.857,
+   1.0
+  ]
+ },
+ "a|semantic": {
+  "share": 0.9492063492063492,
+  "at_ceiling": 33,
+  "var": 0.011025447215923407,
+  "distinct": [
+   0.429,
+   0.714,
+   0.857,
+   1.0
+  ]
+ },
+ "b|baggage_info": {
+  "page": 21,
+  "element": [
+   "single_broken_baggage_link",
+   "clone_mid",
+   "clone_low"
+  ]
+ },
+ "b|sign_in_page": {
+  "page": 18,
+  "element": [
+   "single_signin_goes_home",
+   "clone_low"
+  ]
+ },
+ "b|sort_results": {
+  "page": 18,
+  "element": [
+   "single_results_sort_missing",
+   "clone_low"
+  ]
+ },
+ "b|help_centre": {
+  "page": 17,
+  "element": [
+   "tpl_ho_missing_help_footer",
+   "rebuilt_ho_missing_help_footer"
+  ]
+ },
+ "b|modify_search": {
+  "page": 25,
+  "element": [
+   "single_search_wrong_route",
+   "clone_low",
+   "rebuilt_rb_no_modify",
+   "rebuilt_rb_search_dead",
+   "rebuilt_all4",
+   "tpl_ho_relabel_modify_search",
+   "rebuilt_ho_relabel_modify_search"
+  ]
+ },
+ "b|manage_trips": {
+  "page": 18,
+  "element": [
+   "single_remove_nav_manage",
+   "clone_mid",
+   "clone_low"
+  ]
+ },
+ "b|back_from_review": {
+  "page": 18,
+  "element": []
+ },
+ "b": {
+  "clones_any_element": 14,
+  "pairs_element": 19,
+  "pairs_page": 135,
+  "pairs_total": 315
+ },
+ "fail|replay": {
+  "n": 22,
+  "element": 16,
+  "page_only": [
+   "single_layout_shift_hero/baggage_info",
+   "drift_rebuild/help_centre",
+   "tpl_ho_relabel_checkin_nav/manage_trips",
+   "tpl_ho_missing_help_footer/baggage_info",
+   "rebuilt_ho_relabel_checkin_nav/manage_trips",
+   "rebuilt_ho_missing_help_footer/baggage_info"
+  ],
+  "none": [],
+  "onpath_success": 3
+ },
+ "fail|semantic": {
+  "n": 16,
+  "element": 16,
+  "page_only": [],
+  "none": [],
+  "onpath_success": 3
+ },
+ "c|replay|v3": {
+  "rho_all": 0.22548963785379356,
+  "rho_onpath": 0.24041281108192356,
+  "n_onpath": 14,
+  "med_fail": 0.8808,
+  "med_succ": 0.8984,
+  "p": 0.009108960166648385
+ },
+ "c|replay|v2": {
+  "rho_all": 0.262148278390384,
+  "rho_onpath": 0.24041281108192356,
+  "n_onpath": 14,
+  "med_fail": 0.9167,
+  "med_succ": 0.935,
+  "p": 0.00467348434605042
+ },
+ "c|replay|v1": {
+  "rho_all": 0.2924111561099523,
+  "rho_onpath": 0.24041281108192356,
+  "n_onpath": 14,
+  "med_fail": 0.9548,
+  "med_succ": 0.9755,
+  "p": 0.00253115655497472
+ },
+ "c|semantic|v3": {
+  "rho_all": 0.11026839337238611,
+  "rho_onpath": 0.20153292691686495,
+  "n_onpath": 14,
+  "med_fail": 0.8808,
+  "med_succ": 0.8984,
+  "p": 0.019224691806484045
+ },
+ "c|semantic|v2": {
+  "rho_all": 0.20943307556087584,
+  "rho_onpath": 0.20153292691686495,
+  "n_onpath": 14,
+  "med_fail": 0.8987499999999999,
+  "med_succ": 0.9281,
+  "p": 0.004624806833961811
+ },
+ "c|semantic|v1": {
+  "rho_all": 0.17270541549106486,
+  "rho_onpath": 0.20153292691686495,
+  "n_onpath": 14,
+  "med_fail": 0.945,
+  "med_succ": 0.9755,
+  "p": 0.008077215155133533
+ }
+}

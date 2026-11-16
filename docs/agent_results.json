@@ -1,0 +1,1674 @@
+[
+  {
+    "clone": "real",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_font_change",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_rename_fare_core",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8333333333333334,
+    "semantic": 0.8333333333333334,
+    "trained": 0.8333333333333334
+  },
+  {
+    "clone": "single_button_color",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_remove_nav_manage",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_broken_baggage_link",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8333333333333334,
+    "semantic": 0.8333333333333334,
+    "trained": 0.8333333333333334
+  },
+  {
+    "clone": "single_extra_chat_widget",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_layout_shift_hero",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": false,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": false,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      }
+    },
+    "replay": 0.5,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_results_sort_missing",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_signin_goes_home",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8333333333333334,
+    "semantic": 0.8333333333333334,
+    "trained": 0.8333333333333334
+  },
+  {
+    "clone": "single_fare_rules_noop",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8333333333333334,
+    "semantic": 0.8333333333333334,
+    "trained": 0.8333333333333334
+  },
+  {
+    "clone": "single_checkin_label",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8333333333333334,
+    "semantic": 0.8333333333333334,
+    "trained": 0.8333333333333334
+  },
+  {
+    "clone": "single_rename_continue",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 0.8333333333333334,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_missing_email",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 8,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8333333333333334,
+    "semantic": 0.8333333333333334,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_search_wrong_route",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.6666666666666666,
+    "semantic": 0.6666666666666666,
+    "trained": 0.6666666666666666
+  },
+  {
+    "clone": "sweep_02",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8333333333333334,
+    "semantic": 0.8333333333333334,
+    "trained": 0.8333333333333334
+  },
+  {
+    "clone": "sweep_03",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8333333333333334,
+    "semantic": 0.8333333333333334,
+    "trained": 0.8333333333333334
+  },
+  {
+    "clone": "sweep_04",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8333333333333334,
+    "semantic": 0.8333333333333334,
+    "trained": 0.8333333333333334
+  },
+  {
+    "clone": "sweep_05",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.6666666666666666,
+    "semantic": 0.6666666666666666,
+    "trained": 0.6666666666666666
+  },
+  {
+    "clone": "sweep_06",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.6666666666666666,
+    "semantic": 0.6666666666666666,
+    "trained": 0.6666666666666666
+  },
+  {
+    "clone": "sweep_07",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      }
+    },
+    "replay": 0.5,
+    "semantic": 0.6666666666666666,
+    "trained": 0.6666666666666666
+  },
+  {
+    "clone": "sweep_08",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      }
+    },
+    "replay": 0.5,
+    "semantic": 0.6666666666666666,
+    "trained": 0.6666666666666666
+  },
+  {
+    "clone": "sweep_09",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      }
+    },
+    "replay": 0.3333333333333333,
+    "semantic": 0.5,
+    "trained": 0.5
+  },
+  {
+    "clone": "sweep_10",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      }
+    },
+    "replay": 0.16666666666666666,
+    "semantic": 0.3333333333333333,
+    "trained": 0.3333333333333333
+  },
+  {
+    "clone": "sweep_11",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      }
+    },
+    "replay": 0.0,
+    "semantic": 0.16666666666666666,
+    "trained": 0.16666666666666666
+  },
+  {
+    "clone": "sweep_12",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      }
+    },
+    "replay": 0.0,
+    "semantic": 0.16666666666666666,
+    "trained": 0.16666666666666666
+  },
+  {
+    "clone": "sweep_13",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      }
+    },
+    "replay": 0.0,
+    "semantic": 0.16666666666666666,
+    "trained": 0.16666666666666666
+  },
+  {
+    "clone": "sweep_14",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.0,
+    "semantic": 0.0,
+    "trained": 0.0
+  },
+  {
+    "clone": "clone_high",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8333333333333334,
+    "semantic": 0.8333333333333334,
+    "trained": 0.8333333333333334
+  },
+  {
+    "clone": "clone_mid",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.5,
+    "semantic": 0.5,
+    "trained": 0.5
+  },
+  {
+    "clone": "clone_low",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.0,
+    "semantic": 0.0,
+    "trained": 0.0
+  },
+  {
+    "clone": "drift_rebuild",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_rb_no_modify",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_rb_relabel_find",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 0.8333333333333334,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_rb_broken_about",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_rb_search_dead",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.6666666666666666,
+    "semantic": 0.6666666666666666,
+    "trained": 0.6666666666666666
+  },
+  {
+    "clone": "rebuilt_all4",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.6666666666666666,
+    "semantic": 0.5,
+    "trained": 0.6666666666666666
+  }
+]

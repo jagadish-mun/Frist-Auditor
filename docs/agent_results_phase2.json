@@ -1,0 +1,5430 @@
+[
+  {
+    "clone": "real",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_font_change",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_rename_fare_core",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "single_button_color",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_remove_nav_manage",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "single_broken_baggage_link",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "single_extra_chat_widget",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_layout_shift_hero",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": false,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": false,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.7142857142857143,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_results_sort_missing",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "single_signin_goes_home",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": false
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.8571428571428571,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "single_fare_rules_noop",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "single_checkin_label",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.8571428571428571,
+    "semantic": 0.8571428571428571,
+    "trained": 0.8571428571428571
+  },
+  {
+    "clone": "single_rename_continue",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 0.9285714285714286,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_missing_email",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 8,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 1.0
+  },
+  {
+    "clone": "single_search_wrong_route",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "pax_search": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.7857142857142857,
+    "semantic": 0.7857142857142857,
+    "trained": 0.7857142857142857
+  },
+  {
+    "clone": "sweep_02",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "sweep_03",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "sweep_04",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8571428571428571,
+    "semantic": 0.8571428571428571,
+    "trained": 0.8571428571428571
+  },
+  {
+    "clone": "sweep_05",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.7857142857142857,
+    "semantic": 0.7857142857142857,
+    "trained": 0.7857142857142857
+  },
+  {
+    "clone": "sweep_06",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.7857142857142857,
+    "semantic": 0.7857142857142857,
+    "trained": 0.7857142857142857
+  },
+  {
+    "clone": "sweep_07",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.6428571428571429,
+    "semantic": 0.7857142857142857,
+    "trained": 0.7857142857142857
+  },
+  {
+    "clone": "sweep_08",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.5714285714285714,
+    "semantic": 0.7142857142857143,
+    "trained": 0.7142857142857143
+  },
+  {
+    "clone": "sweep_09",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.5,
+    "semantic": 0.6428571428571429,
+    "trained": 0.6428571428571429
+  },
+  {
+    "clone": "sweep_10",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.42857142857142855,
+    "semantic": 0.5714285714285714,
+    "trained": 0.5714285714285714
+  },
+  {
+    "clone": "sweep_11",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.2857142857142857,
+    "semantic": 0.42857142857142855,
+    "trained": 0.42857142857142855
+  },
+  {
+    "clone": "sweep_12",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.2857142857142857,
+    "semantic": 0.42857142857142855,
+    "trained": 0.42857142857142855
+  },
+  {
+    "clone": "sweep_13",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": false,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.2857142857142857,
+    "semantic": 0.42857142857142855,
+    "trained": 0.42857142857142855
+  },
+  {
+    "clone": "sweep_14",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "pax_search": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sort_results": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.2857142857142857,
+    "semantic": 0.2857142857142857,
+    "trained": 0.2857142857142857
+  },
+  {
+    "clone": "clone_high",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "clone_mid",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.7142857142857143,
+    "semantic": 0.7142857142857143,
+    "trained": 0.7142857142857143
+  },
+  {
+    "clone": "clone_low",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sign_in_page": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "search_bos_mco": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "pax_search": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sort_results": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.2857142857142857,
+    "semantic": 0.2857142857142857,
+    "trained": 0.2857142857142857
+  },
+  {
+    "clone": "drift_rebuild",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": false,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_rb_no_modify",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "rebuilt_rb_relabel_find",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": false
+      }
+    },
+    "replay": 1.0,
+    "semantic": 0.8571428571428571,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_rb_broken_about",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_rb_search_dead",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "pax_search": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.7857142857142857,
+    "semantic": 0.7857142857142857,
+    "trained": 0.7857142857142857
+  },
+  {
+    "clone": "rebuilt_all4",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "pax_search": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": false
+      }
+    },
+    "replay": 0.7142857142857143,
+    "semantic": 0.5714285714285714,
+    "trained": 0.7142857142857143
+  },
+  {
+    "clone": "tpl_ho_move_fare_rules",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": false,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "tpl_ho_move_find_trip",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      }
+    },
+    "replay": 0.8571428571428571,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "tpl_ho_relabel_checkin_nav",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": false,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 1.0
+  },
+  {
+    "clone": "tpl_ho_relabel_modify_search",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "tpl_ho_missing_help_footer",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": false,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8571428571428571,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "tpl_ho_select_skips_fares",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "tpl_ho_continue_dead",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "tpl_ho_checkin_wrong_action",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.8571428571428571,
+    "semantic": 0.8571428571428571,
+    "trained": 0.8571428571428571
+  },
+  {
+    "clone": "tpl_ho_extra_baggage_calc",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "tpl_ho_promo_tint",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_ho_move_fare_rules",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": false,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_ho_move_find_trip",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": false,
+        "semantic": true
+      }
+    },
+    "replay": 0.8571428571428571,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_ho_relabel_checkin_nav",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": false,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_ho_relabel_modify_search",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "rebuilt_ho_missing_help_footer",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": false,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.8571428571428571,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "rebuilt_ho_select_skips_fares",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "rebuilt_ho_continue_dead",
+    "tasks": {
+      "book_core": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 0.9285714285714286,
+    "semantic": 0.9285714285714286,
+    "trained": 0.9285714285714286
+  },
+  {
+    "clone": "rebuilt_ho_checkin_wrong_action",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": false,
+        "steps": 0,
+        "replay": false,
+        "semantic": false
+      }
+    },
+    "replay": 0.8571428571428571,
+    "semantic": 0.8571428571428571,
+    "trained": 0.8571428571428571
+  },
+  {
+    "clone": "rebuilt_ho_extra_baggage_calc",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "rebuilt_ho_promo_tint",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  },
+  {
+    "clone": "draft",
+    "tasks": {
+      "book_core": {
+        "trained": true,
+        "steps": 9,
+        "replay": true,
+        "semantic": true
+      },
+      "fare_rules": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "check_in": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "baggage_info": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "sign_in_page": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "search_bos_mco": {
+        "trained": true,
+        "steps": 3,
+        "replay": true,
+        "semantic": true
+      },
+      "pax_search": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      },
+      "sort_results": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "help_centre": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "modify_search": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "manage_trips": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "back_from_review": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "pick_extra_fare": {
+        "trained": true,
+        "steps": 1,
+        "replay": true,
+        "semantic": true
+      },
+      "checkin_then_home": {
+        "trained": true,
+        "steps": 4,
+        "replay": true,
+        "semantic": true
+      }
+    },
+    "replay": 1.0,
+    "semantic": 1.0,
+    "trained": 1.0
+  }
+]

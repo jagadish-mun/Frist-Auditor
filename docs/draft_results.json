@@ -1,0 +1,199 @@
+{
+  "v3": {
+    "draft": {
+      "defects": [],
+      "overall": 0.8633,
+      "attempts": 1,
+      "layers": {
+        "visual": 0.9458,
+        "elements": 1.0,
+        "behavior": 0.956,
+        "flows": 0.6667
+      },
+      "gap_counts": {
+        "high": 0,
+        "medium": 1,
+        "low": 14
+      },
+      "n_gaps": 15,
+      "seconds": 21.9,
+      "nav_retries": 0,
+      "behavior_retries": 0,
+      "gap_descs": [
+        "behavior|/fares|Accessibility-name mismatch: dialog 'fare rules' opens with the same content on the clone, but has no matching accessible name (clone exposes 'fare rules changes allowed on core and\u2026'). Agents that look dialogs up by role and name will not find it.",
+        "visual|/checkin|Visual differences at 1440x900: 1 region(s), 0.0% of page pixels changed. Largest region 97x58 at (240,204) overlaps button 'Find trip'",
+        "visual|/checkin|Visual differences at 390x844: 1 region(s), 0.1% of page pixels changed. Largest region 97x58 at (40,303) overlaps button 'Find trip'",
+        "visual|/fares|Visual differences at 1440x900: 4 region(s), 0.1% of page pixels changed. Largest region 329x112 at (219,90) overlaps heading 'Choose your fare', button 'Fare rules'",
+        "visual|/fares|Visual differences at 390x844: 4 region(s), 0.2% of page pixels changed, page height -3px. Largest region 352x112 at (19,116) overlaps heading 'Choose your fare', button 'Fare rules'",
+        "visual|/help/baggage|Visual differences at 1440x900: 1 region(s), 0.1% of page pixels changed. Largest region 1440x72 at (0,192) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "visual|/help/baggage|Visual differences at 390x844: 1 region(s), 0.3% of page pixels changed. Largest region 390x72 at (0,236) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "visual|/passenger|Visual differences at 1440x900: 1 region(s), 0.0% of page pixels changed. Largest region 101x57 at (241,205) overlaps button 'Continue'",
+        "visual|/passenger|Visual differences at 390x844: 1 region(s), 0.1% of page pixels changed. Largest region 101x57 at (41,377) overlaps button 'Continue'",
+        "visual|/results|Visual differences at 1440x900: 5 region(s), 0.2% of page pixels changed. Largest region 1440x69 at (0,520) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "visual|/results|Visual differences at 390x844: 4 region(s), 1.8% of page pixels changed. Largest region 360x185 at (15,187) overlaps link 'Modify search', combobox 'Sort by', link 'Select'",
+        "visual|/review|Visual differences at 1440x900: 3 region(s), 0.3% of page pixels changed. Largest region 205x109 at (236,153)",
+        "visual|/review|Visual differences at 390x844: 3 region(s), 1.2% of page pixels changed. Largest region 205x109 at (36,179)",
+        "visual|/|Visual differences at 1440x900: 7 region(s), 1.0% of page pixels changed. Largest region 872x81 at (243,159) overlaps textbox 'From', textbox 'To', textbox 'Depart'",
+        "visual|/|Visual differences at 390x844: 7 region(s), 3.2% of page pixels changed, page height -16px. Largest region 304x353 at (43,185) overlaps textbox 'From', textbox 'To', textbox 'Depart'"
+      ],
+      "hits": {},
+      "hm_unmatched": [
+        "gap-001 [medium/behavior] /fares: Accessibility-name mismatch: dialog 'fare rules' opens with the same content on the clone, but has no matching accessible name (clone exposes 'fare rules changes allowed on core and\u2026'). Agents that look dialogs up by role and name will not find it."
+      ],
+      "detected": [],
+      "missed": [],
+      "recall": null,
+      "unexplained_gaps": [
+        "gap-001 [behavior] /fares: Accessibility-name mismatch: dialog 'fare rules' opens with the same content on the clone, but has no matching accessible name (clone exposes 'fare rules changes allowed on core and\u2026'). Agents that look dialogs up by role and name will not find it.",
+        "gap-002 [visual] /: Visual differences at 390x844: 7 region(s), 3.2% of page pixels changed, page height -16px. Largest region 304x353 at (43,185) overlaps textbox 'From', textbox 'To', textbox 'Depart'",
+        "gap-003 [visual] /results: Visual differences at 390x844: 4 region(s), 1.8% of page pixels changed. Largest region 360x185 at (15,187) overlaps link 'Modify search', combobox 'Sort by', link 'Select'",
+        "gap-004 [visual] /review: Visual differences at 390x844: 3 region(s), 1.2% of page pixels changed. Largest region 205x109 at (36,179)",
+        "gap-005 [visual] /: Visual differences at 1440x900: 7 region(s), 1.0% of page pixels changed. Largest region 872x81 at (243,159) overlaps textbox 'From', textbox 'To', textbox 'Depart'",
+        "gap-006 [visual] /review: Visual differences at 1440x900: 3 region(s), 0.3% of page pixels changed. Largest region 205x109 at (236,153)",
+        "gap-007 [visual] /help/baggage: Visual differences at 390x844: 1 region(s), 0.3% of page pixels changed. Largest region 390x72 at (0,236) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "gap-008 [visual] /fares: Visual differences at 390x844: 4 region(s), 0.2% of page pixels changed, page height -3px. Largest region 352x112 at (19,116) overlaps heading 'Choose your fare', button 'Fare rules'",
+        "gap-009 [visual] /results: Visual differences at 1440x900: 5 region(s), 0.2% of page pixels changed. Largest region 1440x69 at (0,520) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "gap-010 [visual] /checkin: Visual differences at 390x844: 1 region(s), 0.1% of page pixels changed. Largest region 97x58 at (40,303) overlaps button 'Find trip'",
+        "gap-011 [visual] /passenger: Visual differences at 390x844: 1 region(s), 0.1% of page pixels changed. Largest region 101x57 at (41,377) overlaps button 'Continue'",
+        "gap-012 [visual] /help/baggage: Visual differences at 1440x900: 1 region(s), 0.1% of page pixels changed. Largest region 1440x72 at (0,192) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "gap-013 [visual] /fares: Visual differences at 1440x900: 4 region(s), 0.1% of page pixels changed. Largest region 329x112 at (219,90) overlaps heading 'Choose your fare', button 'Fare rules'",
+        "gap-014 [visual] /checkin: Visual differences at 1440x900: 1 region(s), 0.0% of page pixels changed. Largest region 97x58 at (240,204) overlaps button 'Find trip'",
+        "gap-015 [visual] /passenger: Visual differences at 1440x900: 1 region(s), 0.0% of page pixels changed. Largest region 101x57 at (241,205) overlaps button 'Continue'"
+      ]
+    }
+  },
+  "v2": {
+    "draft": {
+      "defects": [],
+      "overall": 0.8633,
+      "attempts": 1,
+      "layers": {
+        "visual": 0.9458,
+        "elements": 1.0,
+        "behavior": 0.956,
+        "flows": 0.6667
+      },
+      "gap_counts": {
+        "high": 0,
+        "medium": 1,
+        "low": 14
+      },
+      "n_gaps": 15,
+      "seconds": 21.9,
+      "nav_retries": 0,
+      "behavior_retries": 0,
+      "gap_descs": [
+        "behavior|/fares|Accessibility-name mismatch: dialog 'fare rules' opens with the same content on the clone, but has no matching accessible name (clone exposes 'fare rules changes allowed on core and\u2026'). Agents that look dialogs up by role and name will not find it.",
+        "visual|/checkin|Visual differences at 1440x900: 1 region(s), 0.0% of page pixels changed. Largest region 97x58 at (240,204) overlaps button 'Find trip'",
+        "visual|/checkin|Visual differences at 390x844: 1 region(s), 0.1% of page pixels changed. Largest region 97x58 at (40,303) overlaps button 'Find trip'",
+        "visual|/fares|Visual differences at 1440x900: 4 region(s), 0.1% of page pixels changed. Largest region 329x112 at (219,90) overlaps heading 'Choose your fare', button 'Fare rules'",
+        "visual|/fares|Visual differences at 390x844: 4 region(s), 0.2% of page pixels changed, page height -3px. Largest region 352x112 at (19,116) overlaps heading 'Choose your fare', button 'Fare rules'",
+        "visual|/help/baggage|Visual differences at 1440x900: 1 region(s), 0.1% of page pixels changed. Largest region 1440x72 at (0,192) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "visual|/help/baggage|Visual differences at 390x844: 1 region(s), 0.3% of page pixels changed. Largest region 390x72 at (0,236) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "visual|/passenger|Visual differences at 1440x900: 1 region(s), 0.0% of page pixels changed. Largest region 101x57 at (241,205) overlaps button 'Continue'",
+        "visual|/passenger|Visual differences at 390x844: 1 region(s), 0.1% of page pixels changed. Largest region 101x57 at (41,377) overlaps button 'Continue'",
+        "visual|/results|Visual differences at 1440x900: 5 region(s), 0.2% of page pixels changed. Largest region 1440x69 at (0,520) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "visual|/results|Visual differences at 390x844: 4 region(s), 1.8% of page pixels changed. Largest region 360x185 at (15,187) overlaps link 'Modify search', combobox 'Sort by', link 'Select'",
+        "visual|/review|Visual differences at 1440x900: 3 region(s), 0.3% of page pixels changed. Largest region 205x109 at (236,153)",
+        "visual|/review|Visual differences at 390x844: 3 region(s), 1.2% of page pixels changed. Largest region 205x109 at (36,179)",
+        "visual|/|Visual differences at 1440x900: 7 region(s), 1.0% of page pixels changed. Largest region 872x81 at (243,159) overlaps textbox 'From', textbox 'To', textbox 'Depart'",
+        "visual|/|Visual differences at 390x844: 7 region(s), 3.2% of page pixels changed, page height -16px. Largest region 304x353 at (43,185) overlaps textbox 'From', textbox 'To', textbox 'Depart'"
+      ],
+      "hits": {},
+      "hm_unmatched": [
+        "gap-001 [medium/behavior] /fares: Accessibility-name mismatch: dialog 'fare rules' opens with the same content on the clone, but has no matching accessible name (clone exposes 'fare rules changes allowed on core and\u2026'). Agents that look dialogs up by role and name will not find it."
+      ],
+      "detected": [],
+      "missed": [],
+      "recall": null,
+      "unexplained_gaps": [
+        "gap-001 [behavior] /fares: Accessibility-name mismatch: dialog 'fare rules' opens with the same content on the clone, but has no matching accessible name (clone exposes 'fare rules changes allowed on core and\u2026'). Agents that look dialogs up by role and name will not find it.",
+        "gap-002 [visual] /: Visual differences at 390x844: 7 region(s), 3.2% of page pixels changed, page height -16px. Largest region 304x353 at (43,185) overlaps textbox 'From', textbox 'To', textbox 'Depart'",
+        "gap-003 [visual] /results: Visual differences at 390x844: 4 region(s), 1.8% of page pixels changed. Largest region 360x185 at (15,187) overlaps link 'Modify search', combobox 'Sort by', link 'Select'",
+        "gap-004 [visual] /review: Visual differences at 390x844: 3 region(s), 1.2% of page pixels changed. Largest region 205x109 at (36,179)",
+        "gap-005 [visual] /: Visual differences at 1440x900: 7 region(s), 1.0% of page pixels changed. Largest region 872x81 at (243,159) overlaps textbox 'From', textbox 'To', textbox 'Depart'",
+        "gap-006 [visual] /review: Visual differences at 1440x900: 3 region(s), 0.3% of page pixels changed. Largest region 205x109 at (236,153)",
+        "gap-007 [visual] /help/baggage: Visual differences at 390x844: 1 region(s), 0.3% of page pixels changed. Largest region 390x72 at (0,236) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "gap-008 [visual] /fares: Visual differences at 390x844: 4 region(s), 0.2% of page pixels changed, page height -3px. Largest region 352x112 at (19,116) overlaps heading 'Choose your fare', button 'Fare rules'",
+        "gap-009 [visual] /results: Visual differences at 1440x900: 5 region(s), 0.2% of page pixels changed. Largest region 1440x69 at (0,520) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "gap-010 [visual] /checkin: Visual differences at 390x844: 1 region(s), 0.1% of page pixels changed. Largest region 97x58 at (40,303) overlaps button 'Find trip'",
+        "gap-011 [visual] /passenger: Visual differences at 390x844: 1 region(s), 0.1% of page pixels changed. Largest region 101x57 at (41,377) overlaps button 'Continue'",
+        "gap-012 [visual] /help/baggage: Visual differences at 1440x900: 1 region(s), 0.1% of page pixels changed. Largest region 1440x72 at (0,192) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "gap-013 [visual] /fares: Visual differences at 1440x900: 4 region(s), 0.1% of page pixels changed. Largest region 329x112 at (219,90) overlaps heading 'Choose your fare', button 'Fare rules'",
+        "gap-014 [visual] /checkin: Visual differences at 1440x900: 1 region(s), 0.0% of page pixels changed. Largest region 97x58 at (240,204) overlaps button 'Find trip'",
+        "gap-015 [visual] /passenger: Visual differences at 1440x900: 1 region(s), 0.0% of page pixels changed. Largest region 101x57 at (241,205) overlaps button 'Continue'"
+      ]
+    }
+  },
+  "v1": {
+    "draft": {
+      "defects": [],
+      "overall": 0.8671,
+      "attempts": 1,
+      "layers": {
+        "visual": 0.7987,
+        "elements": 1.0,
+        "behavior": 0.989,
+        "flows": 0.6667
+      },
+      "gap_counts": {
+        "high": 0,
+        "medium": 1,
+        "low": 14
+      },
+      "n_gaps": 15,
+      "seconds": 21.0,
+      "nav_retries": 0,
+      "behavior_retries": 0,
+      "gap_descs": [
+        "behavior|/fares|Accessibility-name mismatch: dialog 'fare rules' opens with the same content on the clone, but has no matching accessible name (clone exposes 'fare rules changes allowed on core and\u2026'). Agents that look dialogs up by role and name will not find it.",
+        "visual|/checkin|Visual differences at 1440x900: 8 region(s), 2.6% of page pixels changed. Largest region 1440x20 at (0,291)",
+        "visual|/checkin|Visual differences at 390x844: 9 region(s), 6.2% of page pixels changed. Largest region 356x57 at (17,208) overlaps textbox 'Confirmation code', textbox 'Last name'",
+        "visual|/fares|Visual differences at 1440x900: 19 region(s), 3.5% of page pixels changed. Largest region 1440x20 at (0,422)",
+        "visual|/fares|Visual differences at 390x844: 17 region(s), 10.1% of page pixels changed, page height -3px. Largest region 352x112 at (19,116) overlaps heading 'Choose your fare', button 'Fare rules'",
+        "visual|/help/baggage|Visual differences at 1440x900: 3 region(s), 2.5% of page pixels changed. Largest region 1440x72 at (0,192) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "visual|/help/baggage|Visual differences at 390x844: 3 region(s), 5.2% of page pixels changed. Largest region 390x72 at (0,236) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "visual|/passenger|Visual differences at 1440x900: 9 region(s), 2.6% of page pixels changed. Largest region 1440x20 at (0,291)",
+        "visual|/passenger|Visual differences at 390x844: 11 region(s), 7.8% of page pixels changed. Largest region 356x57 at (17,208) overlaps textbox 'First name', textbox 'Last name'",
+        "visual|/results|Visual differences at 1440x900: 17 region(s), 5.7% of page pixels changed. Largest region 1440x69 at (0,520) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "visual|/results|Visual differences at 390x844: 11 region(s), 19.3% of page pixels changed. Largest region 360x185 at (15,187) overlaps link 'Modify search', combobox 'Sort by', link 'Select'",
+        "visual|/review|Visual differences at 1440x900: 5 region(s), 4.9% of page pixels changed. Largest region 1440x65 at (0,386) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "visual|/review|Visual differences at 390x844: 5 region(s), 10.5% of page pixels changed. Largest region 390x65 at (0,412) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "visual|/|Visual differences at 1440x900: 11 region(s), 9.5% of page pixels changed. Largest region 872x81 at (243,159) overlaps textbox 'From', textbox 'To', textbox 'Depart'",
+        "visual|/|Visual differences at 390x844: 11 region(s), 23.1% of page pixels changed, page height -16px. Largest region 304x353 at (43,185) overlaps textbox 'From', textbox 'To', textbox 'Depart'"
+      ],
+      "hits": {},
+      "hm_unmatched": [
+        "gap-001 [medium/behavior] /fares: Accessibility-name mismatch: dialog 'fare rules' opens with the same content on the clone, but has no matching accessible name (clone exposes 'fare rules changes allowed on core and\u2026'). Agents that look dialogs up by role and name will not find it."
+      ],
+      "detected": [],
+      "missed": [],
+      "recall": null,
+      "unexplained_gaps": [
+        "gap-001 [behavior] /fares: Accessibility-name mismatch: dialog 'fare rules' opens with the same content on the clone, but has no matching accessible name (clone exposes 'fare rules changes allowed on core and\u2026'). Agents that look dialogs up by role and name will not find it.",
+        "gap-002 [visual] /: Visual differences at 390x844: 11 region(s), 23.1% of page pixels changed, page height -16px. Largest region 304x353 at (43,185) overlaps textbox 'From', textbox 'To', textbox 'Depart'",
+        "gap-003 [visual] /results: Visual differences at 390x844: 11 region(s), 19.3% of page pixels changed. Largest region 360x185 at (15,187) overlaps link 'Modify search', combobox 'Sort by', link 'Select'",
+        "gap-004 [visual] /review: Visual differences at 390x844: 5 region(s), 10.5% of page pixels changed. Largest region 390x65 at (0,412) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "gap-005 [visual] /fares: Visual differences at 390x844: 17 region(s), 10.1% of page pixels changed, page height -3px. Largest region 352x112 at (19,116) overlaps heading 'Choose your fare', button 'Fare rules'",
+        "gap-006 [visual] /: Visual differences at 1440x900: 11 region(s), 9.5% of page pixels changed. Largest region 872x81 at (243,159) overlaps textbox 'From', textbox 'To', textbox 'Depart'",
+        "gap-007 [visual] /passenger: Visual differences at 390x844: 11 region(s), 7.8% of page pixels changed. Largest region 356x57 at (17,208) overlaps textbox 'First name', textbox 'Last name'",
+        "gap-008 [visual] /checkin: Visual differences at 390x844: 9 region(s), 6.2% of page pixels changed. Largest region 356x57 at (17,208) overlaps textbox 'Confirmation code', textbox 'Last name'",
+        "gap-009 [visual] /results: Visual differences at 1440x900: 17 region(s), 5.7% of page pixels changed. Largest region 1440x69 at (0,520) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "gap-010 [visual] /help/baggage: Visual differences at 390x844: 3 region(s), 5.2% of page pixels changed. Largest region 390x72 at (0,236) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "gap-011 [visual] /review: Visual differences at 1440x900: 5 region(s), 4.9% of page pixels changed. Largest region 1440x65 at (0,386) overlaps link 'About us', link 'Help centre', link 'Baggage info'",
+        "gap-012 [visual] /fares: Visual differences at 1440x900: 19 region(s), 3.5% of page pixels changed. Largest region 1440x20 at (0,422)",
+        "gap-013 [visual] /checkin: Visual differences at 1440x900: 8 region(s), 2.6% of page pixels changed. Largest region 1440x20 at (0,291)",
+        "gap-014 [visual] /passenger: Visual differences at 1440x900: 9 region(s), 2.6% of page pixels changed. Largest region 1440x20 at (0,291)",
+        "gap-015 [visual] /help/baggage: Visual differences at 1440x900: 3 region(s), 2.5% of page pixels changed. Largest region 1440x72 at (0,192) overlaps link 'About us', link 'Help centre', link 'Baggage info'"
+      ]
+    }
+  },
+  "_meta": {
+    "wall_seconds": 44.0,
+    "scorings": [
+      "v3",
+      "v2",
+      "v1"
+    ]
+  }
+}
